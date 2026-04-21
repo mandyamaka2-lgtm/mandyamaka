@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi, my name is Mandyamaka and I'm a data analyst.
+# Hi, I'm Chiamaka 👋
+
+I'm a data enthusiast passionate about transforming data into meaningful insights.  
+I enjoy working with tools like Power BI, SQL, and Excel to analyze and visualize data.
+
+✨ Currently working on:
+- Data analysis projects
+- Building dashboards in Power BI
+- Improving my SQL skills
+
+📚 Currently learning:
+- Advanced data visualization
+- Data storytelling
+
+💡 Interests:
+- Business & marketing strategy
+- Tech & remote work opportunities
+
+📫 Let's connect:
+- LinkedIn: https://www.linkedin.com/in/blessingogomegbulam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
 # 💻 Tech Stack:
