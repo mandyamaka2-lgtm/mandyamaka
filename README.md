@@ -1,34 +1,59 @@
-# 💫 About Me:
-# Hi, I'm Chiamaka 👋
+# 👋 Hi, I'm Blessing Ogomegbulam
 
-I'm a data enthusiast passionate about transforming data into meaningful insights.  
-I enjoy working with tools like Power BI, SQL, and Excel to analyze and visualize data.
+## Data Analyst | Power BI • SQL • Excel
 
-✨ Currently working on:
-- Data analysis projects
-- Building dashboards in Power BI
-- Improving my SQL skills
+I transform raw data into clear insights that support better business decisions.
 
-📚 Currently learning:
-- Advanced data visualization
-- Data storytelling
+I'm passionate about uncovering patterns, building interactive dashboards, and translating complex datasets into actionable recommendations. Through hands-on analytics projects, I continuously strengthen my skills in data analysis, visualization, and business intelligence.
 
-💡 Interests:
-- Business & marketing strategy
-- Tech & remote work opportunities
+### 🚀 What I'm Working On
 
-📫 Let's connect:
-- LinkedIn: https://www.linkedin.com/in/blessingogomegbulam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+* Developing end-to-end data analytics projects
+* Building interactive dashboards with Power BI
+* Writing efficient SQL queries for data exploration and reporting
+* Expanding my analytics portfolio with real-world business case studies
 
+### 🌱 Currently Learning
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mandyamaka2-lgtm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mandyamaka2-lgtm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mandyamaka2-lgtm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* Advanced Power BI (DAX & Power Query)
+* Data storytelling and executive dashboard design
+* Business analytics and decision support
+
+### 🛠️ Tech Stack
+
+* **Data Analysis:** Excel, SQL (MySQL), Power BI
+* **Data Cleaning & Transformation:** Power Query
+* **Database:** MySQL
+* **Version Control:** Git & GitHub
+
+### 📊 Areas of Interest
+
+* Business Intelligence
+* Healthcare Analytics
+* Customer & Marketing Analytics
+* Operational Performance Analytics
+* Data Visualization & Storytelling
+
+### 📌 Featured Projects
+
+Here are some of the projects you'll find in my repositories:
+
+* 📈 Healthcare Analytics Dashboard
+* 📦 Logistics Performance Analysis
+* 📱 Customer Churn Analysis
+* 💊 Pharmacy Sales Analytics
+* 🛍️ Retail & Business Analytics Projects
+
+### 📫 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/blessingogomegbulam
 
 ---
-[![](https://komarev.com/ghpvc/?username=mandyamaka2-lgtm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># mandyamaka
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Mandyamaka&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mandyamaka&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandyamaka&layout=compact&theme=transparent)
