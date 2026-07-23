@@ -40,9 +40,8 @@ Here are some of the projects you'll find in my repositories:
 
 * 📈 Healthcare Analytics Dashboard
 * 📦 Logistics Performance Analysis
-* 📱 Customer Churn Analysis
 * 💊 Pharmacy Sales Analytics
-* 🛍️ Retail & Business Analytics Projects
+
 
 ### 📫 Connect With Me
 
