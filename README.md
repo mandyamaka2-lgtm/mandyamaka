@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Blessing Ogomegbulam
+# 👋 Hi, I'm Blessing Chiamaka Ogomegbulam
 
 ## Data Analyst | Power BI • SQL • Excel
 
